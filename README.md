@@ -2,7 +2,7 @@
 
 **`Digital Craftsman`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+Hey there! 👋 I'm [Your Name], a passionate programmer who fell in love with coding at the age of 10. From that first "Hello, World!" to the exciting projects I work on today, programming has always been my playground 🎢. Now a professional in the field, I thrive on developing sleek web applications, diving into machine learning, and exploring the latest tech trends 🚀. Join me on my coding adventure and let's build something amazing together!
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
