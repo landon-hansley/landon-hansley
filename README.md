@@ -5,10 +5,6 @@
 Hey there! 👋 I'm Landon, a passionate programmer who fell in love with coding at the age of 10. From that first "Hello, World!" to the exciting projects I work on today, programming has always been my playground 🎢. Now a professional in the field, I thrive on developing sleek web applications, diving into machine learning, and exploring the latest tech trends 🚀. Join me on my coding adventure and let's build something amazing together!
 
    <p align="left">
-      <a href="https://www.youtube.com/@DevBytes1?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC9-0nECTWrP_FE_zULv54oA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@DevBytes1">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC9-0nECTWrP_FE_zULv54oA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/landon-hansley?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/landon-hansley?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/landon-hansley?tab=repositories&sort=stargazers">
