@@ -2,7 +2,7 @@
 
 **`Digital Craftsman`**
 
-Hey there! 👋 I'm [Your Name], a passionate programmer who fell in love with coding at the age of 10. From that first "Hello, World!" to the exciting projects I work on today, programming has always been my playground 🎢. Now a professional in the field, I thrive on developing sleek web applications, diving into machine learning, and exploring the latest tech trends 🚀. Join me on my coding adventure and let's build something amazing together!
+Hey there! 👋 I'm Landon, a passionate programmer who fell in love with coding at the age of 10. From that first "Hello, World!" to the exciting projects I work on today, programming has always been my playground 🎢. Now a professional in the field, I thrive on developing sleek web applications, diving into machine learning, and exploring the latest tech trends 🚀. Join me on my coding adventure and let's build something amazing together!
 
    <p align="left">
       <a href="https://www.youtube.com/@DevBytes1?sub_confirmation=1">
